@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👨🏾‍💻 Isaque Esteves
 
-Me chamo Isaque e nasci em Aracaju-SE, mas moro em Brasília por agora! 
+Olá, me chamo Isaque e nasci em Aracaju-SE, mas moro em Brasília por agora! 
 Estudei todo o meu ensino médio no Colégio Militar de Brasília e atualmente estou cursando na UnB, no curso de Engenharia de Software.
 
 ## Habilidades
