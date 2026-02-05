@@ -13,3 +13,4 @@ I completed my high school studies at Colégio Militar de Brasília, and I am cu
 ## Hard Skills
 - C 
 - Python (basic)
+- Java
