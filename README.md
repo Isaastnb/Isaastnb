@@ -3,7 +3,7 @@
 Hello! I'm Isaque and I was born in Aracaju, Sergipe (Brazil), but I'm living in Brasília now!
 I completed my high school studies at Colégio Militar de Brasília, and I am currently pursuing a degree in Software Engineering at the University of Brasília (UnB).
 
-## Skills
+## Soft Skills
 - Problem-solving & analytical thinking
 - Teamwork & collaboration
 - Communication (oral and written)
@@ -12,5 +12,6 @@ I completed my high school studies at Colégio Militar de Brasília, and I am cu
 
 ## Hard Skills
 - C 
-- Python (basic)
+- Python 
 - Java
+- MySQL
